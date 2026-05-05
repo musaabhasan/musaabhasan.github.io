@@ -1,5 +1,5 @@
 # musaabhasan.github.io
 
-GitHub Pages profile for Musaab Hasan.
+Public GitHub Pages site for Musaab Hasan.
 
-The page is designed as a GitHub-native professional profile, highlighting cybersecurity governance, business continuity, AI and agent security, EdTech tooling, applied research, and selected repositories.
+The site highlights cybersecurity governance, business continuity, AI and agent security, EdTech tooling, applied research, and selected open-source repositories.
